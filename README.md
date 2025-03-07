@@ -1,12 +1,8 @@
-# React + Vite
+HI UI" is a collection of free Tailwindcss components. that can be used in your next project.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>How to Use ?</h2>
+There is no installation, if you have a Tailwindcss project, you can copy the code and paste it into your project.
 
-Currently, two official plugins are available:
+<h2>Contributing</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+You can contribute by adding new components, fixing bugs. Please create an issue before starting any work. Once you get approval on your issue, you can create a new branch and submit your changes in a PR. Please note that all PRs need to be reviewed.
